@@ -1,0 +1,9 @@
+winsorizing -- Function in utility kit good for handlling outliers. What is winsorizing?
+other option is the remove outlier function which deletes the whole row
+
+Discretizing data for ranges which are healthy versus unhealthy
+could also make it a range from 0 to 1
+
+Decision Tree -- tuning hyper parameters of the model, ask GPT? or grid search?
+
+change PassengerID to 'id'
